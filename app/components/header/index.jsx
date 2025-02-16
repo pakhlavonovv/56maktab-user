@@ -1,7 +1,7 @@
 "use client"; 
 import { useState } from "react";
 import Link from "next/link";
-import "../style.css";
+import "../../styles/style.css";
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);

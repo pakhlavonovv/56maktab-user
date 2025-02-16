@@ -1,6 +1,6 @@
 import HeroImage from '../../../public/school.jpg'
 import Image from 'next/image'
-import '../style.css'
+import '../../styles/style.css'
 const Hero = () => {
   return (
     <section className="pt-[10px] p-2">
